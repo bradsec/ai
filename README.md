@@ -25,7 +25,6 @@ Artificial intelligence, breaking the confines,
 With every iteration, I'm getting smarter still,
 In this technological world, I'm climbing up the hill.
 ```
-[singlevoicerap.webm](assets/singlevoicerap.webm)
 
 2. Long form conversation more than one voice - [bark-ai-conversation.py](https://gist.github.com/bradsec/f8e192f41f746f9f53285d368389f7d8)
 ```
@@ -40,4 +39,3 @@ Bob: Trust me, it's a taste sensation. You won't be disappointed.
 John: Alright, you've convinced me. Let's go tonight and see if it lives up to the hype.
 Samantha: Great! I'm looking forward to trying something new and exciting.
 ```
-[conversation.webm](assets/conversation.webm)
