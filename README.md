@@ -2,9 +2,16 @@
 # ai
 AI related notes, demos, scripts and programs
 
-### [Bark Voice Ai](https://github.com/suno-ai/bark)
+## TEXT
+...
 
-Python scripts to run the bark [notebook](https://github.com/suno-ai/bark/tree/main/notebooks) examples on a local machine without using jupyter notebooks. 
+## IMAGE
+...
+
+## VOICE
+### [Suno Ai Bark Text-to-Voice](https://github.com/suno-ai/bark)
+
+Python scripts to run the Bark [notebook](https://github.com/suno-ai/bark/tree/main/notebooks) examples on a local machine without using jupyter notebooks. 
 They produce .wav audio files.
 1. Long form conversation single voice - [bark-ai-single-voice.py](https://gist.github.com/bradsec/a1bff7fb61b314bd38f902fc7389eb36)
 ```
