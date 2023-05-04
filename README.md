@@ -1,3 +1,4 @@
+
 # ai
 AI related notes, demos, scripts and programs
 
@@ -25,6 +26,7 @@ Artificial intelligence, breaking the confines,
 With every iteration, I'm getting smarter still,
 In this technological world, I'm climbing up the hill.
 ```
+[singlevoicerap.webm](https://user-images.githubusercontent.com/7948876/236251026-9845f64b-d2d5-49c1-9c06-c80c50fb747a.webm)
 
 2. Long form conversation more than one voice - [bark-ai-conversation.py](https://gist.github.com/bradsec/f8e192f41f746f9f53285d368389f7d8)
 ```
@@ -39,3 +41,4 @@ Bob: Trust me, it's a taste sensation. You won't be disappointed.
 John: Alright, you've convinced me. Let's go tonight and see if it lives up to the hype.
 Samantha: Great! I'm looking forward to trying something new and exciting.
 ```
+[conversation.webm](https://user-images.githubusercontent.com/7948876/236251062-d6dcd71d-9b5a-456b-af8f-8dfc09a588d3.webm)
